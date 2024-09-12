@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.imagens{
+    display: flex;
+    gap: 0px 20px;
+}
+
+#resultado {
+    border-style: solid;
+    border-color: white;
+    border-radius: 2px;
+    box-shadow: 2px 2px 5px 2px white;
+}
+
+
+
